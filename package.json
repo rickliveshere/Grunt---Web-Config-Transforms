@@ -1,0 +1,10 @@
+{
+  "name": "Grunt.Web.Config.Transform.Example",
+  "title": "Grunt - Web Config Transform Example",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-cli": "0.1.5",
+    "grunt-targethtml": "0.2.6"
+  }
+}
